@@ -41,3 +41,43 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.research-entry {
+  margin-bottom: 2em;
+}
+
+.research-title {
+  margin-bottom: 0.6em; /* space after title */
+}
+
+.research-authors {
+  color: #777; /* grey author names */
+  margin-bottom: 0.6em;
+}
+
+details.research-abstract > summary {
+  font-size: 0.9em;      /* "Abstract" label smaller */
+  margin-top: 0.6em;
+  margin-bottom: 0.3em;
+  cursor: pointer;
+  list-style: none;      /* remove default marker */
+}
+
+details.research-abstract > summary::-webkit-details-marker {
+  display: none;        
+}
+
+details.research-abstract > summary::before {
+  content: "[+] ";
+}
+
+details.research-abstract[open] > summary::before {
+  content: "[-] ";
+}
+
+details.research-abstract > div {
+  font-size: 0.85em;     
+  color: #888;         
+  line-height: 1.5;
+  margin-top: 0.4em;
+}
