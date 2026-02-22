@@ -51,16 +51,17 @@
 }
 
 .research-authors {
-  color: #777; /* grey author names */
+  color: #777; 
+  font-size: 0.8em;
   margin-bottom: 0.6em;
 }
 
 details.research-abstract > summary {
-  font-size: 0.9em;      /* "Abstract" label smaller */
+  font-size: 0.8em;      /* "Abstract" label smaller */
   margin-top: 0.6em;
   margin-bottom: 0.3em;
   cursor: pointer;
-  list-style: none;      /* remove default marker */
+  list-style: none;      /* rm default marker */
 }
 
 details.research-abstract > summary::-webkit-details-marker {
@@ -76,7 +77,7 @@ details.research-abstract[open] > summary::before {
 }
 
 details.research-abstract > div {
-  font-size: 0.85em;     
+  font-size: 0.75em;     
   color: #888;         
   line-height: 1.5;
   margin-top: 0.4em;
