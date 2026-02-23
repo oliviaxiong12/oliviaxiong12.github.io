@@ -52,11 +52,10 @@ with Emanuele Colonnelli, Tim McQuade, Gabriel Ramos, and Thomas Rauter
 </div>
 
 <details class="research-abstract">
-<summary>Abstract</summary>
-
-</div>
-We examine job seekers' heterogeneous preferences for nonwage amenities, with a focus on environmental, social, and governance (ESG) practices, using an incentivized field experiment in Brazil. Our findings reveal that ESG is the most polarizing nonwage amenity across multiple sociodemographic groups, with the strongest preferences observed among highly educated, White, and politically liberal individuals (Colonnelli et al. 2025). While women report a stronger preference for work-from-home policies, all other nonwage amenities exhibit minimal variation across sociodemographic groups. Our findings highlight the critical role of corporate values in shaping economic outcomes within an increasingly polarized society.
-</div>
+  <summary>Abstract</summary>
+  <div>
+    We examine job seekers' heterogeneous preferences for nonwage amenities, with a focus on environmental, social, and governance (ESG) practices, using an incentivized field experiment in Brazil. Our findings reveal that ESG is the most polarizing nonwage amenity across multiple sociodemographic groups, with the strongest preferences observed among highly educated, White, and politically liberal individuals (Colonnelli et al. 2025). While women report a stronger preference for work-from-home policies, all other nonwage amenities exhibit minimal variation across sociodemographic groups. Our findings highlight the critical role of corporate values in shaping economic outcomes within an increasingly polarized society.
+  </div>
 </details>
 
 </div>
