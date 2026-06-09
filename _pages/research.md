@@ -11,7 +11,7 @@ author_profile: true
 
 <div class="research-title">
 <strong>
-<a href="/files/CMRRX_February2025.pdf" target="_blank" rel="noopener noreferrer">
+<a href="/files/CMRRX_June2026.pdf" target="_blank" rel="noopener noreferrer">
 Polarizing Corporations: Does Talent Flow to “Good’’ Firms?
 </a>
 </strong>
