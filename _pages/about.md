@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the Business Economics program at Harvard Business School. 
+I am a second-year Ph.D. student in the Business Economics program at Harvard Business School. 
 
 You can reach me via email at oxiong@hbs.edu.
