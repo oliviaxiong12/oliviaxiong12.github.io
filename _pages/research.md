@@ -22,7 +22,7 @@ with Emanuele Colonnelli, Tim McQuade, Gabriel Ramos, and Thomas Rauter
 </div>
 
 <div style="color: #777676; font-size: 0.8em;">
-[<em>AEA Papers and Proceedings</em>, 2025, 115: 146–52]
+[Minor Revisions resubmitted at the <em>Journal of Political Economy</em>]
 </div>
 
 <details class="research-abstract">
@@ -52,7 +52,7 @@ with Emanuele Colonnelli, Tim McQuade, Gabriel Ramos, and Thomas Rauter
 </div>
 
 <div style="color: #777676; font-size: 0.8em;">
-[Minor Revisions resubmitted at the <em>Journal of Political Economy</em>]
+[<em>AEA Papers and Proceedings</em>, 2025, 115: 146–52]
 </div>
 
 <details class="research-abstract">
